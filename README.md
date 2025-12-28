@@ -1,7 +1,10 @@
 # 💫 About Me:
-Data Analyst focused on business insights using Python, SQL, and Power BI.<br>
-Experience building end-to-end analytics projects: data cleaning, EDA, dashboards, and basic ML models.<br>
-Actively seeking entry-level Data Analyst / Business Analyst roles.
+I am a Data Analyst with hands-on experience in working on real data and solving practical business problems.<br>
+I come from a B.Com background and enjoy using data to support decision-making, not just creating dashboards.<br>
+I have worked on projects involving data cleaning, exploratory data analysis, SQL queries, KPIs, and interactive dashboards using Python and Power BI across domains like sales, finance, healthcare, and operations.<br>
+During my internship at Spinnaker Analytics, I worked with real-world datasets and business requirements, helping turn data into useful insights.<br>
+I am currently looking for entry-level Data Analyst or Business Analyst roles where I can apply my skills and continue learning on the job.
+
 
 ---
 
